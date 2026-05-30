@@ -3,12 +3,24 @@
 <!-- Animated header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:22d3ee&height=180&section=header&text=Yasir%20Ali&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=false&width=600&lines=Agentic+AI+%26+ML+Engineer;Building+intelligent+%26+explainable+systems;Turning+data+into+decisions+%F0%9F%A4%96)](https://git.io/typing-svg)
+<!-- Single-line typing only — multiline SVG gets clipped on GitHub -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=Agentic+AI+%26+ML+Engineer;ML+%26+Deep+Learning;Explainable+AI+Systems"
+    alt="Agentic AI & ML Engineer"
+  />
+</p>
+
+<p align="center">
+  <b>Building intelligent & explainable systems</b><br/>
+  <i>Turning data into decisions 🤖</i>
+</p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasirali646)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/14YL3p6Y5Jd/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasir-ameer)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yasirali_646/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yasirameermahoto)
 [![Email](https://img.shields.io/badge/Email-iamyasirali646%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamyasirali646@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@yasirali646-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasirali646)
 
@@ -113,12 +125,13 @@ reach: iamyasirali646@gmail.com
 
 ## `> metrics`
 
+<!-- github-readme-stats.vercel.app often returns 503; profile-summary-cards is reliable -->
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yasirali646&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirali646&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirali646&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&include_all_commits=true&count_private=true" alt="Top languages" width="48%" />
+[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasirali646&theme=tokyonight)](https://github.com/yasirali646)
+[![GitHub streak](https://streak-stats.demolab.com/?user=yasirali646&theme=tokyonight&hide_border=true)](https://github.com/yasirali646)
+[![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasirali646&theme=tokyonight)](https://github.com/yasirali646)
 
 </div>
 
@@ -128,8 +141,8 @@ reach: iamyasirali646@gmail.com
 
 <div align="center">
 
-<!-- Snake animation (requires github-contribution-grid-snake workflow in profile repo) -->
-![Snake animation](https://raw.githubusercontent.com/yasirali646/yasirali646/output/github-contribution-grid-snake.svg)
+<!-- Works immediately — no GitHub Action required -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirali646&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=22d3ee&line=6366f1&point=22d3ee" alt="Contribution activity graph" width="100%" />
 
 </div>
 
@@ -137,8 +150,7 @@ reach: iamyasirali646@gmail.com
 
 <div align="center">
 
-<sub>Profile views</sub>  
-[![](https://visitcount.itsvg.in/api?id=yasirali646&icon=5&color=6)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=yasirali646&color=22d3ee&style=flat-square&label=PROFILE+VIEWS)
 
 <br/>
 
